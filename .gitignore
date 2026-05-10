@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+*.pkl
+*.faiss
+vectorstore/faiss_index/index.faiss
+vectorstore/faiss_index/store.pkl

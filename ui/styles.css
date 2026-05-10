@@ -1,0 +1,96 @@
+/*
+ * ui/styles.css — Static fallback styles.
+ * The primary styles are injected dynamically via utils/theme.py (get_global_css).
+ * This file is kept for reference and any static asset pipelines.
+ * CSS class names here match those used in components/cards.py and ui/components.py.
+ */
+
+/* Scholarship card */
+.sch-card {
+    border: 1px solid rgba(148, 163, 184, 0.25);
+    border-radius: 18px;
+    padding: 14px;
+    margin-bottom: 12px;
+    background: rgba(17, 24, 39, 0.9);
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sch-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.16);
+}
+
+/* Match score progress bar */
+.match-bar {
+    width: 100%;
+    height: 10px;
+    border-radius: 999px;
+    background: rgba(30, 41, 59, 0.65);
+    overflow: hidden;
+}
+
+.match-fill {
+    height: 100%;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+}
+
+/* Chip / badge */
+.saas-chip {
+    display: inline-block;
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+}
+
+/* Chat bubbles */
+.chat-bubble-user {
+    margin: 8px 0 8px auto;
+    border-radius: 16px 16px 4px 16px;
+    padding: 10px 12px;
+    max-width: 88%;
+    color: #fff;
+    background: linear-gradient(90deg, #2563eb, #7c3aed);
+}
+
+.chat-bubble-assistant {
+    margin: 8px auto 8px 0;
+    border: 1px solid rgba(148, 163, 184, 0.25);
+    border-radius: 16px 16px 16px 4px;
+    padding: 10px 12px;
+    max-width: 88%;
+    background: rgba(17, 24, 39, 0.9);
+}
+
+/* Chat container */
+.chat-wrap {
+    border: 1px solid rgba(148, 163, 184, 0.25);
+    border-radius: 18px;
+    padding: 14px;
+    background: #111827;
+}
+
+/* Login page */
+.login-shell {
+    border-radius: 24px;
+    padding: 32px 18px 18px 18px;
+}
+
+.glass-card {
+    border: 1px solid rgba(148, 163, 184, 0.25);
+    border-radius: 20px;
+    padding: 24px;
+    background: rgba(17, 24, 39, 0.86);
+    box-shadow: 0 16px 40px rgba(2, 8, 20, 0.18);
+    backdrop-filter: blur(10px);
+}
+
+/* Muted text */
+.subtle {
+    color: #94a3b8;
+    font-size: 13px;
+}

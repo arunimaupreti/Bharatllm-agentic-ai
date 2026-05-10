@@ -1,0 +1,170 @@
+[
+  {
+    "text": "Name: NSP Central Sector Scholarship | State: All India | Category: All | Income Limit: 800000 | Education Level: Undergraduate | Description: Merit-cum-means scholarship for UG students through National Scholarship Portal. | Benefits: Up to INR 20,000 per year | Deadline: 2026-09-30 | Link: https://scholarships.gov.in/",
+    "metadata": {
+      "name": "NSP Central Sector Scholarship",
+      "state": "All India",
+      "category": "All",
+      "income_limit": 800000,
+      "education_level": "Undergraduate",
+      "description": "Merit-cum-means scholarship for UG students through National Scholarship Portal.",
+      "benefits": "Up to INR 20,000 per year",
+      "deadline": "2026-09-30",
+      "link": "https://scholarships.gov.in/"
+    }
+  },
+  {
+    "text": "Name: Post Matric Scholarship SC Students | State: All India | Category: SC | Income Limit: 250000 | Education Level: Undergraduate | Description: Financial aid for SC students in post-matric studies. | Benefits: Tuition + maintenance allowance | Deadline: 2026-10-15 | Link: https://scholarships.gov.in/",
+    "metadata": {
+      "name": "Post Matric Scholarship SC Students",
+      "state": "All India",
+      "category": "SC",
+      "income_limit": 250000,
+      "education_level": "Undergraduate",
+      "description": "Financial aid for SC students in post-matric studies.",
+      "benefits": "Tuition + maintenance allowance",
+      "deadline": "2026-10-15",
+      "link": "https://scholarships.gov.in/"
+    }
+  },
+  {
+    "text": "Name: Top Class Education Scheme for ST | State: All India | Category: ST | Income Limit: 600000 | Education Level: Undergraduate | Description: Scholarship for ST students in top institutions. | Benefits: Tuition, living, and computer allowance | Deadline: 2026-08-31 | Link: https://tribal.nic.in/",
+    "metadata": {
+      "name": "Top Class Education Scheme for ST",
+      "state": "All India",
+      "category": "ST",
+      "income_limit": 600000,
+      "education_level": "Undergraduate",
+      "description": "Scholarship for ST students in top institutions.",
+      "benefits": "Tuition, living, and computer allowance",
+      "deadline": "2026-08-31",
+      "link": "https://tribal.nic.in/"
+    }
+  },
+  {
+    "text": "Name: INSPIRE Scholarship | State: All India | Category: All | Income Limit: 0 | Education Level: Undergraduate | Description: Scholarship for science students with strong academic merit. | Benefits: INR 80,000 per year | Deadline: 2026-11-01 | Link: https://online-inspire.gov.in/",
+    "metadata": {
+      "name": "INSPIRE Scholarship",
+      "state": "All India",
+      "category": "All",
+      "income_limit": 0,
+      "education_level": "Undergraduate",
+      "description": "Scholarship for science students with strong academic merit.",
+      "benefits": "INR 80,000 per year",
+      "deadline": "2026-11-01",
+      "link": "https://online-inspire.gov.in/"
+    }
+  },
+  {
+    "text": "Name: Pragati Scholarship for Girls | State: All India | Category: All | Income Limit: 800000 | Education Level: Undergraduate | Description: AICTE scholarship for girl students in technical education. | Benefits: INR 50,000 per year | Deadline: 2026-09-20 | Link: https://www.aicte-india.org/",
+    "metadata": {
+      "name": "Pragati Scholarship for Girls",
+      "state": "All India",
+      "category": "All",
+      "income_limit": 800000,
+      "education_level": "Undergraduate",
+      "description": "AICTE scholarship for girl students in technical education.",
+      "benefits": "INR 50,000 per year",
+      "deadline": "2026-09-20",
+      "link": "https://www.aicte-india.org/"
+    }
+  },
+  {
+    "text": "Name: Ishan Uday Scholarship | State: Assam | Category: All | Income Limit: 450000 | Education Level: Undergraduate | Description: Scholarship for students from North Eastern Region. | Benefits: INR 5,400-7,800 per month | Deadline: 2026-10-05 | Link: https://www.ugc.ac.in/",
+    "metadata": {
+      "name": "Ishan Uday Scholarship",
+      "state": "Assam",
+      "category": "All",
+      "income_limit": 450000,
+      "education_level": "Undergraduate",
+      "description": "Scholarship for students from North Eastern Region.",
+      "benefits": "INR 5,400-7,800 per month",
+      "deadline": "2026-10-05",
+      "link": "https://www.ugc.ac.in/"
+    }
+  },
+  {
+    "text": "Name: MahaDBT Rajarshi Chhatrapati Scholarship | State: Maharashtra | Category: EWS | Income Limit: 800000 | Education Level: Undergraduate | Description: Support for economically weaker students in Maharashtra. | Benefits: Tuition reimbursement | Deadline: 2026-09-25 | Link: https://mahadbt.maharashtra.gov.in/",
+    "metadata": {
+      "name": "MahaDBT Rajarshi Chhatrapati Scholarship",
+      "state": "Maharashtra",
+      "category": "EWS",
+      "income_limit": 800000,
+      "education_level": "Undergraduate",
+      "description": "Support for economically weaker students in Maharashtra.",
+      "benefits": "Tuition reimbursement",
+      "deadline": "2026-09-25",
+      "link": "https://mahadbt.maharashtra.gov.in/"
+    }
+  },
+  {
+    "text": "Name: UP Scholarship Post Matric | State: Uttar Pradesh | Category: OBC | Income Limit: 200000 | Education Level: Undergraduate | Description: Post-matric support for OBC students in UP. | Benefits: Fee reimbursement + maintenance allowance | Deadline: 2026-10-10 | Link: https://scholarship.up.gov.in/",
+    "metadata": {
+      "name": "UP Scholarship Post Matric",
+      "state": "Uttar Pradesh",
+      "category": "OBC",
+      "income_limit": 200000,
+      "education_level": "Undergraduate",
+      "description": "Post-matric support for OBC students in UP.",
+      "benefits": "Fee reimbursement + maintenance allowance",
+      "deadline": "2026-10-10",
+      "link": "https://scholarship.up.gov.in/"
+    }
+  },
+  {
+    "text": "Name: West Bengal Swami Vivekananda Merit Scholarship | State: West Bengal | Category: All | Income Limit: 250000 | Education Level: Undergraduate | Description: Merit scholarship for students in West Bengal. | Benefits: Up to INR 5,000 per month | Deadline: 2026-09-30 | Link: https://svmcm.wbhed.gov.in/",
+    "metadata": {
+      "name": "West Bengal Swami Vivekananda Merit Scholarship",
+      "state": "West Bengal",
+      "category": "All",
+      "income_limit": 250000,
+      "education_level": "Undergraduate",
+      "description": "Merit scholarship for students in West Bengal.",
+      "benefits": "Up to INR 5,000 per month",
+      "deadline": "2026-09-30",
+      "link": "https://svmcm.wbhed.gov.in/"
+    }
+  },
+  {
+    "text": "Name: Tamil Nadu First Graduate Scholarship | State: Tamil Nadu | Category: All | Income Limit: 0 | Education Level: Undergraduate | Description: Fee concession for first graduate students in Tamil Nadu. | Benefits: Tuition fee concession | Deadline: 2026-08-20 | Link: https://www.tn.gov.in/",
+    "metadata": {
+      "name": "Tamil Nadu First Graduate Scholarship",
+      "state": "Tamil Nadu",
+      "category": "All",
+      "income_limit": 0,
+      "education_level": "Undergraduate",
+      "description": "Fee concession for first graduate students in Tamil Nadu.",
+      "benefits": "Tuition fee concession",
+      "deadline": "2026-08-20",
+      "link": "https://www.tn.gov.in/"
+    }
+  },
+  {
+    "text": "Name: Karnataka Vidyasiri Scholarship | State: Karnataka | Category: SC | Income Limit: 250000 | Education Level: Undergraduate | Description: Food and accommodation support for eligible Karnataka students. | Benefits: Hostel and maintenance support | Deadline: 2026-09-05 | Link: https://ssp.postmatric.karnataka.gov.in/",
+    "metadata": {
+      "name": "Karnataka Vidyasiri Scholarship",
+      "state": "Karnataka",
+      "category": "SC",
+      "income_limit": 250000,
+      "education_level": "Undergraduate",
+      "description": "Food and accommodation support for eligible Karnataka students.",
+      "benefits": "Hostel and maintenance support",
+      "deadline": "2026-09-05",
+      "link": "https://ssp.postmatric.karnataka.gov.in/"
+    }
+  },
+  {
+    "text": "Name: EWS Merit Scholarship Delhi | State: Delhi | Category: EWS | Income Limit: 800000 | Education Level: Class 12 | Description: Support for EWS students continuing higher education from Delhi schools. | Benefits: One-time grant up to INR 25,000 | Deadline: 2026-07-31 | Link: https://edudel.nic.in/",
+    "metadata": {
+      "name": "EWS Merit Scholarship Delhi",
+      "state": "Delhi",
+      "category": "EWS",
+      "income_limit": 800000,
+      "education_level": "Class 12",
+      "description": "Support for EWS students continuing higher education from Delhi schools.",
+      "benefits": "One-time grant up to INR 25,000",
+      "deadline": "2026-07-31",
+      "link": "https://edudel.nic.in/"
+    }
+  }
+]
